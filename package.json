@@ -1,7 +1,7 @@
 {
   "name": "agen-situs-judi-slot-4d-online-terpercaya-mudah-gacor",
   "main": "./lib/agen-situs-judi-slot-4d-online-terpercaya-mudah-gacor",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Pusat agen situs judi slot gacor 4d terpercaya mudah maxwin dengan konsep terbaru daftar bandar slot online terbaik 2022",
   "keywords": [
     "slot gacor",
@@ -18,6 +18,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
