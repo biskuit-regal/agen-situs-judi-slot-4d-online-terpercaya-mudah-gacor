@@ -1,0 +1,23 @@
+{
+  "name": "agen-situs-judi-slot-4d-online-terpercaya-mudah-gacor",
+  "main": "./lib/agen-situs-judi-slot-4d-online-terpercaya-mudah-gacor",
+  "version": "0.0.0",
+  "description": "Pusat agen situs judi slot gacor 4d terpercaya mudah maxwin dengan konsep terbaru daftar bandar slot online terbaik 2022",
+  "keywords": [
+    "slot gacor",
+    "slot gacor 4d",
+    "situs slot gacor",
+    "agen slot gacor",
+    "slot gacor terpercaya"
+  ],
+  "activationCommands": {
+    "atom-workspace": "agen-situs-judi-slot-4d-online-terpercaya-mudah-gacor:toggle"
+  },
+  "repository": "https://github.com/biskuit-regal/agen-situs-judi-slot-4d-online-terpercaya-mudah-gacor",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

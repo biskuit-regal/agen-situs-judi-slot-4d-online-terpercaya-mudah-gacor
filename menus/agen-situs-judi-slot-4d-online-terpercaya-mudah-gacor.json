@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle agen-situs-judi-slot-4d-online-terpercaya-mudah-gacor",
+        "command": "agen-situs-judi-slot-4d-online-terpercaya-mudah-gacor:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "agen-situs-judi-slot-4d-online-terpercaya-mudah-gacor",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "agen-situs-judi-slot-4d-online-terpercaya-mudah-gacor:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
